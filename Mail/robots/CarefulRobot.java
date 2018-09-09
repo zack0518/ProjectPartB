@@ -28,7 +28,7 @@ public class CarefulRobot extends Robot {
 			else{
 	          current_floor = current_floor - 1;
 			}
-          }
-		  step = 0;
+			step = 0;
+                 }
 	   }
 }
